@@ -1,10 +1,9 @@
 body{
     background-color: rgb(16, 16, 27);
 }
-img {border-radius: 50%;
-    }
 
 #home-body{
+    border-radius: 50%;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -50,18 +49,24 @@ h1{
 #me{
     color: lightgray;
     font-family: 'Lucida Sans';
-    text-align: center;
+    text-align: right;
 }
 #about{
     color: lightgray;
     font-family: 'Lucida Sans';
     display: flex;
     margin: 25px;
+    text-align: left;
+    
 }
 .about {
     margin: 25px;
 }
-img {
-    
-    
+#about-img {
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        }
+#about-p{
+    width: 33%;
 }
