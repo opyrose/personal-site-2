@@ -72,6 +72,7 @@ h1{
         justify-content: space-evenly;
         flex-wrap: wrap;
         }
+
 #about-p{
     width: 33%;
 }
@@ -107,3 +108,4 @@ h1{
     width: 500px;
     color:rgb(9, 51, 77)
 }
+
