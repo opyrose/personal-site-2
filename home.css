@@ -109,3 +109,8 @@ h1{
     color:rgb(9, 51, 77)
 }
 
+@media only screen and (max-width: 500px) {
+    img {
+      object-fit: cover;
+      width: 100%;
+    } 
