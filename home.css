@@ -1,14 +1,14 @@
 body{
     background-color: rgb(16, 16, 27);
 }
-img{border-radius: 50%;
-    }
+
 
 #home-body{
     display: flex;
     flex-direction: row;
     align-items: center;
     gap: 25px;
+
 }
 
 #home-img {
@@ -16,6 +16,9 @@ img{border-radius: 50%;
     flex-direction: row;
     margin: 15px;
 
+}
+#crow{
+    border-radius: 50%;
 }
 header {
     font-family: 'Lucida Sans';
