@@ -2,12 +2,14 @@ body{
     background-color: rgb(16, 16, 27);
 }
 
+
 #home-body{
     border-radius: 50%;
     display: flex;
     flex-direction: row;
     align-items: center;
     gap: 25px;
+
 }
 
 #home-img {
@@ -15,6 +17,9 @@ body{
     flex-direction: row;
     margin: 15px;
 
+}
+#crow{
+    border-radius: 50%;
 }
 header {
     font-family: 'Lucida Sans';
@@ -67,3 +72,40 @@ h1{
         justify-content: space-evenly;
         flex-wrap: wrap;
         }
+
+#about-p{
+    width: 33%;
+}
+#portfolio{
+    color: lightgray;
+    font-family: 'Lucida Sans';
+    }
+#form {
+    color: lightgray;
+    font-family: 'Lucida Sans';
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#input-box{
+    padding: 25px;
+ 
+}
+#input-box2{
+    padding: 25px;
+}
+#input-box3{
+    padding: 25px;
+}
+#input-box4{
+    padding: 25px;
+    
+}
+.box{
+    height: 50px;
+    width: 500px;
+    color:rgb(9, 51, 77)
+}
+
