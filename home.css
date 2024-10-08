@@ -1,7 +1,7 @@
 body{
     background-color: rgb(16, 16, 27);
 }
-img{border-radius: 50%;
+#crow {border-radius: 50%;
     }
 
 #home-body{
@@ -51,4 +51,17 @@ h1{
     color: lightgray;
     font-family: 'Lucida Sans';
     text-align: center;
+}
+#about{
+    color: lightgray;
+    font-family: 'Lucida Sans';
+    display: flex;
+    margin: 25px;
+}
+.about {
+    margin: 25px;
+}
+img {
+    
+    
 }
